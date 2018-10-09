@@ -1,4 +1,4 @@
-Some MIPS programs 
+## Some MIPS programs 
 
 Simulator installation instructions
 
