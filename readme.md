@@ -10,7 +10,7 @@ They may download the debian file from internet of from this repo and then runni
 
 
 
-Fist time usage
+First time usage
 
 1. Open the xspim/qtspim by typing xspim -font 6x10/qtspim in linux terminal. 
 2. Load the file by clicking on load button
