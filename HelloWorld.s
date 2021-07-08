@@ -3,6 +3,7 @@ Hi : .asciiz "Hello world"
 .text
 .globl main
 main:
+	#First assembly program
 	#Output on the screen is shown as using a system call
 	#The system call number for printing the string on the screen is 4 
 	#Argument to this call is only the address of string to be printed 
